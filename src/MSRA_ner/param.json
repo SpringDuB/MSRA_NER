@@ -1,0 +1,1 @@
+{"device": "cuda", "summary_log_dir": "outputs\\summary", "model_save_dir": "outputs\\models\\ckpt", "data_path": "/mnt/workspace/nlp/MSRA_ner/datas/MSRA_Pro", "fine_tune_root_dir": "/mnt/workspace/nlp/models/bert-base-chinese", "vocab_size": 30522, "lm_name": "BertLanguageModel", "resume": false, "freeze_lm": false}
